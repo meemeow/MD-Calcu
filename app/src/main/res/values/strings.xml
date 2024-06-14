@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Ez Calculator</string>
+    <string name="app_name">Clamor_Act5</string>
     <string name="output">Output</string>
     <string name="hint_first_number">Enter first number</string>
     <string name="hint_second_number">Enter second number</string>
